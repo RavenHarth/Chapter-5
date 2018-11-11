@@ -24,7 +24,7 @@ namespace task_11
                 case 3: Console.Write("триста"); break;
                 case 4: Console.Write("четиристотин"); break;
                 case 5: Console.Write("петстотин"); break;
-                case 6: Console.Write("шестотин"); break;
+                case 6: Console.Write("шестстотин"); break;
                 case 7: Console.Write("седемстотин"); break;
                 case 8: Console.Write("осемстотин"); break;
                 case 9: Console.Write("деветстотин"); break;
